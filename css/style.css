@@ -144,3 +144,9 @@ footer{padding:40px 0;border-top:1px solid var(--border);color:var(--muted);font
 .toc{display:flex;flex-wrap:wrap;gap:8px}
 .toc a{background:var(--card);border:1px solid var(--border);border-radius:999px;padding:6px 14px;text-decoration:none;color:var(--text);font-size:.85rem}
 .toc a:hover{border-color:var(--accent)}
+
+/* table refinements */
+table{min-width:1040px}
+td:first-child{min-width:230px}
+td .sub .tag{white-space:nowrap;margin-top:4px;display:inline-block}
+td.num .bar{width:56px}
