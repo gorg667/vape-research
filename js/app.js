@@ -62,7 +62,7 @@
       ['infinity-lean-20k', 'Cheapest legit device'],
       ['oxbar-g42k', 'Best for cutting nicotine'],
     ];
-    const el = document.getElementById('picks');
+    const el = document.getElementById('picks-grid');
     el.innerHTML = picks.map(([id, award]) => {
       const p = DATA.products.find(x => x.id === id); if (!p) return '';
       return `<a class="card pick" href="#rev-${p.id}" style="text-decoration:none;color:inherit">
@@ -127,7 +127,7 @@
 
   // ---------- Review cards ----------
   function renderReviews() {
-    const el = document.getElementById('reviews');
+    const el = document.getElementById('reviews-list');
     let html = '';
     TIER_ORDER.forEach(t => {
       const items = DATA.products.filter(p => p.tier === t).sort((a, b) => b.score - a.score);
