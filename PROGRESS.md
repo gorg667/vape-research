@@ -32,14 +32,16 @@ static website in this repo (root `index.html`, plain HTML/CSS/JS, no build step
   - [ ] Toronto retail: specialty vape shops (chains + independents), price ranges,
         online CA retailers that ship to Toronto, what to avoid (illicit 50mg imports, fakes)
   - [ ] Health/safety/cessation section + battery/e-waste disposal in Toronto
-- [ ] Build website — IN PROGRESS
-  - [ ] data/products.json (all devices w/ mL, price lo/hi, battery, coil, modes, tier, verdict, score)
-  - [ ] index.html single page: hero+age notice, TL;DR picks, legal quick-facts, comparison table (sort/filter, $/mL auto), 
+- [x] Build website — DONE (index.html, css/style.css, js/app.js, data/products.json, .nojekyll, README.md)
+  - [x] data/products.json (all devices w/ mL, price lo/hi, battery, coil, modes, tier, verdict, score)
+  - [x] index.html single page: hero+age notice, TL;DR picks, legal quick-facts, comparison table (sort/filter, $/mL auto), 
         device cards by tier, "how to buy in Toronto" (checklist, shops, delivery), nicotine calculator, health/harm-reduction, disposal,
         methodology + sources, FAQ
-  - [ ] css/style.css (dark theme, responsive), js/app.js (render table from JSON, sort, filter, calculator)
-  - [ ] .nojekyll, README.md
-- [ ] Final polish, README, verify GH Pages renders
+  - [x] css/style.css (dark theme, responsive), js/app.js (render table from JSON, sort, filter, calculator)
+  - [x] .nojekyll, README.md
+- [x] Tested headless (20 rows, 9 picks, 20 reviews, calc OK, 0 JS errors; desktop+mobile screenshots fine)
+- [ ] Enable GitHub Pages (main branch, / root) via gh CLI or API; verify live URL
+- [ ] Optional future: add device images, per-shop price snapshots, more Reddit sentiment, French toggle
 
 ## Research log
 - Legal: research/01-legal-landscape.md
@@ -67,3 +69,7 @@ Scoring weights: value ($/mL) 30%, reliability/brand track record 25%, flavour c
 - Single-page-app-ish static site with a JSON data file for products so table is
   sortable/filterable client-side. Keep everything relative-path so GH Pages works at
   /vape-research/ subpath.
+
+
+## Status log
+- 2026-09-08: Site complete & pushed. Fixed duplicate-id bug (#picks/#reviews -> #picks-grid/#reviews-list). Remaining: turn on GH Pages.
