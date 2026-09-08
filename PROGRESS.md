@@ -17,7 +17,7 @@ static website in this repo (root `index.html`, plain HTML/CSS/JS, no build step
 
 ## Plan / Status
 - [x] Repo init + PROGRESS.md
-- [ ] Research phase (save raw notes into `research/*.md` as we go)
+- [x] Research phase DONE (research/01..05). Enough to build; can add more later.
   - [ ] Ontario/Canada legal landscape: Health Canada nicotine cap 20 mg/mL, Ontario
         flavour rules (specialty vape stores only for non-tobacco/mint/menthol flavours),
         federal excise stamp (2022+), Ontario provincial vape tax (2024), age 19+,
@@ -32,12 +32,36 @@ static website in this repo (root `index.html`, plain HTML/CSS/JS, no build step
   - [ ] Toronto retail: specialty vape shops (chains + independents), price ranges,
         online CA retailers that ship to Toronto, what to avoid (illicit 50mg imports, fakes)
   - [ ] Health/safety/cessation section + battery/e-waste disposal in Toronto
-- [ ] Build website (index + brand pages or single-page with sections, comparison table,
-      filter/sort JS, methodology, sources list)
+- [ ] Build website — IN PROGRESS
+  - [ ] data/products.json (all devices w/ mL, price lo/hi, battery, coil, modes, tier, verdict, score)
+  - [ ] index.html single page: hero+age notice, TL;DR picks, legal quick-facts, comparison table (sort/filter, $/mL auto), 
+        device cards by tier, "how to buy in Toronto" (checklist, shops, delivery), nicotine calculator, health/harm-reduction, disposal,
+        methodology + sources, FAQ
+  - [ ] css/style.css (dark theme, responsive), js/app.js (render table from JSON, sort, filter, calculator)
+  - [ ] .nojekyll, README.md
 - [ ] Final polish, README, verify GH Pages renders
 
-## Research log (append as you go — cite URLs)
-(empty)
+## Research log
+- Legal: research/01-legal-landscape.md
+- Market + user reports: research/02-market-overview.md
+- Device specs + $/mL: research/03-device-specs.md (see CORRECTIONS at bottom — Titan Max is 30 mL quad mesh!)
+- Toronto retail + disposal: research/04-toronto-retail.md
+- Health + nicotine math: research/05-health-and-usage.md
+
+## VERDICTS decided (use these in the site; reasoning documented)
+Scoring weights: value ($/mL) 30%, reliability/brand track record 25%, flavour consensus 20%, features 15%, availability in Toronto 10%.
+- BEST OVERALL: **STLTH x Geek Bar 80K** — 30 mL, 820 mAh, dual mesh, Normal/Pulse, screen, Toronto company + Geek Bar hardware, $44–49, 
+  every retailer stocks it; most cross-source consensus. Runner-up: **STLTH Titan Max 50K** (same 30 mL, quad mesh, 1000 mAh, often cheaper $35–45 — 
+  best "value from a trusted brand").
+- BEST FLAVOUR / MOST FEATURES: **Flavour Beast Alpha 80K** — physical coil switching, 4 levels, dot-matrix; priciest ($49–53).
+- BEST VALUE (pure $/mL, disposable): **Vice Box 2 70K** $37.99/30 mL = $1.27/mL, but single coil + reliability caveats. 
+  **Oxbar G100K** $41–43/30 mL, 1000 mAh, triple mode — better hardware for $3 more → our value pick among all-in-ones.
+- BEST LONG-RUN VALUE (hybrid): **STLTH Loop Max** ($14 battery + $26–35 30 mL pods) and **Level X G2 Ultra** ($20–34 20 mL pods). Fresh coil each pod, less e-waste.
+- BEST MID-SIZE: **Geek Bar Pulse X 25K** (18 mL, 820 mAh, best-regarded flavour, $30–37); alt **Beast Mode Max 2** (20 mL, 4 modes, Level X compatible).
+- BEST BUDGET: **Infinity Lean 20K** $24.99 ON; **Elf Bar BC Pro 80K** $32–39 for 25 mL (transparent tank) — cheapest big device.
+- BEST COMPACT / LIGHT USER: **Allo Ultra 2500** (10 mL, 1500 mAh non-rechargeable, draw-activated) — pricey per mL but simplest; **Vuse Go 8000** if you must buy at a convenience store.
+- STEP-DOWN: **Oxbar G42K** (adjustable nic level), **Orbito Lumo AI** (10 mg option), or refillable pod w/ lower-mg salts.
+- AVOID: unstamped/5% imports; brand-new 100K+ no-name brands until track record; anything you can't test-fire in store.
 
 ## Decisions / reasoning notes
 - Single-page-app-ish static site with a JSON data file for products so table is
