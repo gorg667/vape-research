@@ -27,10 +27,25 @@
       "released": "2025-09",
       "score": 9.1,
       "award": "Best overall",
-      "pros": ["30 mL from Canada's most-trusted vape brand", "Pulse mode for a stronger hit on demand", "Clear screen — no guessing", "Stocked by virtually every Toronto shop", "Manufacturer honours DOA replacements"],
-      "cons": ["820 mAh battery is smaller than 1000 mAh rivals — charge every ~2 days", "All-iced flavour lineup", "Mid-to-high price"],
+      "pros": [
+        "30 mL from Canada's most-trusted vape brand",
+        "Pulse mode for a stronger hit on demand",
+        "Clear screen — no guessing",
+        "Stocked by virtually every Toronto shop",
+        "Manufacturer honours DOA replacements"
+      ],
+      "cons": [
+        "820 mAh battery is smaller than 1000 mAh rivals — charge every ~2 days",
+        "All-iced flavour lineup",
+        "Mid-to-high price"
+      ],
       "verdict": "The consensus pick across every source we checked. STLTH's Toronto-based QA plus Geek Bar's hardware make this the safest 30 mL buy in the city. If you only read one line: buy this.",
-      "sources": ["cigarchief.com/guides/stlth-x-geek-bar-80k-review/", "vapeshopmania.ca/blogs/news/stlth-x-geek-bar-80k-review", "ca.wakavaping.com best-disposables-2026", "stlthvape.com/collections/stlth-x-geek-bar-disposable"]
+      "sources": [
+        "cigarchief.com/guides/stlth-x-geek-bar-80k-review/",
+        "vapeshopmania.ca/blogs/news/stlth-x-geek-bar-80k-review",
+        "ca.wakavaping.com best-disposables-2026",
+        "stlthvape.com/collections/stlth-x-geek-bar-disposable"
+      ]
     },
     {
       "id": "stlth-titan-max",
@@ -56,10 +71,24 @@
       "released": "2024-11",
       "score": 8.9,
       "award": "Best value from a trusted brand",
-      "pros": ["Identical 30 mL to the 80K class, frequently $5–10 cheaper", "1000 mAh — fewer charges", "Quad mesh = dense, warm flavour", "Nearly two years on the market; strong reliability record"],
-      "cons": ["'50K' label makes buyers think it's smaller (it isn't)", "No Eco mode — uses liquid faster than Eco-rated rivals", "Bulky"],
+      "pros": [
+        "Identical 30 mL to the 80K class, frequently $5–10 cheaper",
+        "1000 mAh — fewer charges",
+        "Quad mesh = dense, warm flavour",
+        "Nearly two years on the market; strong reliability record"
+      ],
+      "cons": [
+        "'50K' label makes buyers think it's smaller (it isn't)",
+        "No Eco mode — uses liquid faster than Eco-rated rivals",
+        "Bulky"
+      ],
       "verdict": "The market's best-kept secret. The '50K' number makes it look inferior to '80K' devices, but it holds exactly the same 30 mL and often costs less. If you'd run Boost mode anyway, this is the smarter STLTH.",
-      "sources": ["stlthvape.com/blogs/insights/introducing-stlth-titan-max", "uvapeshop.com/blogs/reviews/stlth-titan-max-disposable-review", "newcityvapes.com stlth-titan-max review Sept 2025", "supavapes.com stlth-titan-max-50k-guide Aug 2026"]
+      "sources": [
+        "stlthvape.com/blogs/insights/introducing-stlth-titan-max",
+        "uvapeshop.com/blogs/reviews/stlth-titan-max-disposable-review",
+        "newcityvapes.com stlth-titan-max review Sept 2025",
+        "supavapes.com stlth-titan-max-50k-guide Aug 2026"
+      ]
     },
     {
       "id": "fb-alpha-80k",
@@ -85,10 +114,25 @@
       "released": "2026-02",
       "score": 8.8,
       "award": "Most advanced / best flavour tech",
-      "pros": ["Only disposable that physically switches coils", "Widest wattage range (10–23 W)", "Flavour Beast recipes are the boldest in Canada", "Metal side panel — premium feel"],
-      "cons": ["Most expensive device in Toronto", "850 mAh is small for 23 W use", "Very sweet profiles (likely sucralose)", "Bulkiest of the 30 mL class"],
+      "pros": [
+        "Only disposable that physically switches coils",
+        "Widest wattage range (10–23 W)",
+        "Flavour Beast recipes are the boldest in Canada",
+        "Metal side panel — premium feel"
+      ],
+      "cons": [
+        "Most expensive device in Toronto",
+        "850 mAh is small for 23 W use",
+        "Very sweet profiles (likely sucralose)",
+        "Bulkiest of the 30 mL class"
+      ],
       "verdict": "If flavour intensity and control matter more than $5, this is the one. Run Level 1–2 all day and Level 4 when you want a show. Budget for it.",
-      "sources": ["dragonvape.ca flavour-beast-alpha-80k guide Jun 2026", "flavourbeast.com/collections/alpha-on", "ca.wakavaping.com flavour-beast-alpha-80k-review Mar 2026", "vapecloud.ca best-disposable-vapes-canada"]
+      "sources": [
+        "dragonvape.ca flavour-beast-alpha-80k guide Jun 2026",
+        "flavourbeast.com/collections/alpha-on",
+        "ca.wakavaping.com flavour-beast-alpha-80k-review Mar 2026",
+        "vapecloud.ca best-disposable-vapes-canada"
+      ]
     },
     {
       "id": "oxbar-g100k",
@@ -109,15 +153,28 @@
       "nic": 20,
       "flavours": 15,
       "flavourExamples": "Blueberry Raspberry, Cherry Watermelon, Fresh Mint, Grape Ice, M.D.W. (lemon-lime), Peach Berry, Raspberry Lemon, Watermelon Ice",
-      "priceLow": 41.00,
+      "priceLow": 41.0,
       "priceHigh": 42.99,
       "released": "2026-03",
       "score": 8.5,
       "award": "Best value all-in-one",
-      "pros": ["1000 mAh + triple mode for ~$42", "'Adapter' middle mode is genuinely useful", "Physical airflow dial", "Less sugary profiles than Flavour Beast"],
-      "cons": ["'100K' is marketing — same 30 mL as the 80K devices", "Slow standard-rate charging", "Newer to Toronto shelves; fewer long-term reports"],
+      "pros": [
+        "1000 mAh + triple mode for ~$42",
+        "'Adapter' middle mode is genuinely useful",
+        "Physical airflow dial",
+        "Less sugary profiles than Flavour Beast"
+      ],
+      "cons": [
+        "'100K' is marketing — same 30 mL as the 80K devices",
+        "Slow standard-rate charging",
+        "Newer to Toronto shelves; fewer long-term reports"
+      ],
       "verdict": "Best hardware per dollar among all-in-one disposables. Ignore the 100K number; buy it because it's a 1000 mAh, three-mode, 30 mL device for $42.",
-      "sources": ["vapingtheway.ca/blogs/news/oxbar-g100k-review Mar 2026", "180smoke.ca oxbar-x-rocky-vapor-g100k", "vapecloud.ca/products/rocky-vapor-oxbar-g100k"]
+      "sources": [
+        "vapingtheway.ca/blogs/news/oxbar-g100k-review Mar 2026",
+        "180smoke.ca oxbar-x-rocky-vapor-g100k",
+        "vapecloud.ca/products/rocky-vapor-oxbar-g100k"
+      ]
     },
     {
       "id": "vice-box-2",
@@ -143,10 +200,23 @@
       "released": "2025-03",
       "score": 7.6,
       "award": "Cheapest 30 mL",
-      "pros": ["Lowest $/mL of any 30 mL disposable in Toronto", "900 mAh battery", "Adjustable airflow + screen at a budget price"],
-      "cons": ["Single coil — flavour thins toward the end", "No power modes", "Multiple user reports of leaks/duds over the years"],
+      "pros": [
+        "Lowest $/mL of any 30 mL disposable in Toronto",
+        "900 mAh battery",
+        "Adjustable airflow + screen at a budget price"
+      ],
+      "cons": [
+        "Single coil — flavour thins toward the end",
+        "No power modes",
+        "Multiple user reports of leaks/duds over the years"
+      ],
       "verdict": "The price leader, and fine if you get a good unit. Test-fire it in store. For $3–4 more, the Oxbar G100K or Titan Max is a clear upgrade.",
-      "sources": ["vapedensity.ca vice-box-2-review May 2026", "180smoke.ca vice-box-2-disposable-vapes-30ml", "reddit r/electronic_cigarette 1l7jvaz", "uvapeshop.com vice-box-2-disposable-review"]
+      "sources": [
+        "vapedensity.ca vice-box-2-review May 2026",
+        "180smoke.ca vice-box-2-disposable-vapes-30ml",
+        "reddit r/electronic_cigarette 1l7jvaz",
+        "uvapeshop.com vice-box-2-disposable-review"
+      ]
     },
     {
       "id": "elfbar-bc-pro-80k",
@@ -167,15 +237,29 @@
       "nic": 20,
       "flavours": 15,
       "flavourExamples": "Strawberry Kiwi Ice (#1 seller), Blue Razz Ice, Blueberry Sour Raspberry, Miami Mint, Kiwi Guava Ice, Double Mango",
-      "priceLow": 32.20,
+      "priceLow": 32.2,
       "priceHigh": 43.99,
       "released": "2025-12",
       "score": 7.8,
       "award": "Best budget big device",
-      "pros": ["Only device where you can SEE the remaining liquid", "Cheapest entry into the big class ($32–39 typical)", "Elf Bar coils are consistently smooth", "Compact for its capacity"],
-      "cons": ["25 mL, not 30 — check the $/mL", "No screen, no modes, fixed airflow", "Battery capacity undisclosed", "Huge price spread by flavour and store"],
+      "pros": [
+        "Only device where you can SEE the remaining liquid",
+        "Cheapest entry into the big class ($32–39 typical)",
+        "Elf Bar coils are consistently smooth",
+        "Compact for its capacity"
+      ],
+      "cons": [
+        "25 mL, not 30 — check the $/mL",
+        "No screen, no modes, fixed airflow",
+        "Battery capacity undisclosed",
+        "Huge price spread by flavour and store"
+      ],
       "verdict": "A pragmatic pick: the transparent tank ends the 'is it empty or is my battery dead?' guessing game. Shop around — the same device ranges from $32 to $44 across Toronto.",
-      "sources": ["vapebest.ca elf-bar-bc-pro-80k-review Sept 2026", "180smoke.ca elfbar-bc-pro-80k-disposable-vapes-25ml", "uvapeshop.com elf-bar-bc-pro-80k Apr 2026"]
+      "sources": [
+        "vapebest.ca elf-bar-bc-pro-80k-review Sept 2026",
+        "180smoke.ca elfbar-bc-pro-80k-disposable-vapes-25ml",
+        "uvapeshop.com elf-bar-bc-pro-80k Apr 2026"
+      ]
     },
     {
       "id": "stlth-60k",
@@ -201,10 +285,551 @@
       "released": "2025-06",
       "score": 8.3,
       "award": "Most re-purchased",
-      "pros": ["Three modes + 1000 mAh", "Smaller than Titan Max", "STLTH quality control", "Retailers report the highest repurchase rate"],
-      "cons": ["25 mL for near-80K pricing", "Overshadowed by the Geek Bar collab"],
+      "pros": [
+        "Three modes + 1000 mAh",
+        "Smaller than Titan Max",
+        "STLTH quality control",
+        "Retailers report the highest repurchase rate"
+      ],
+      "cons": [
+        "25 mL for near-80K pricing",
+        "Overshadowed by the Geek Bar collab"
+      ],
       "verdict": "The 'boring but reliable' STLTH. Good if you want modes and a slightly smaller body than Titan Max — but compare the price against the 80K.",
-      "sources": ["thevapestore.ca best-disposable-vapes-canada-2026", "canadavapes.com stlth-product-reviews", "vapebest.ca best-disposable-vape-brands"]
+      "sources": [
+        "thevapestore.ca best-disposable-vapes-canada-2026",
+        "canadavapes.com stlth-product-reviews",
+        "vapebest.ca best-disposable-vape-brands"
+      ]
+    },
+    {
+      "id": "beast-mode-max-2",
+      "name": "Flavour Beast Beast Mode Max 2",
+      "brand": "Flavour Beast",
+      "origin": "Canada",
+      "tier": "mid",
+      "format": "disposable",
+      "ml": 20,
+      "puffs": 50000,
+      "puffsNote": "50K on Eco",
+      "batteryMah": 850,
+      "rechargeable": true,
+      "coil": "Dual mesh",
+      "modes": "4: Eco / Normal / Beast / Max",
+      "airflow": "Precision adjustable",
+      "screen": "Display",
+      "nic": 20,
+      "flavours": 13,
+      "flavourExamples": "Trippin' Triple Berry, Bangin' Blood Orange, Mangabeys Iced, Tropika Iced, Kanzi Iced, Mad Mango Peach, Wild White Grape",
+      "priceLow": 39.99,
+      "priceHigh": 49.99,
+      "released": "2025-04",
+      "score": 7.9,
+      "award": "Best mid-size flavour",
+      "pros": [
+        "Top revenue seller in Canada — flavours people love",
+        "4 power modes",
+        "Same pod format as Level X G2 (buy the battery later and switch to pods)"
+      ],
+      "cons": [
+        "Only 20 mL for $40–50 — poor $/mL",
+        "One documented DOA on Reddit (manufacturer replaced it)",
+        "Alpha 80K makes this look dated"
+      ],
+      "verdict": "Great flavours, weak value. If you like Flavour Beast, step up to the Alpha or sideways to a Level X G2 battery + Ultra pods for far less per mL.",
+      "sources": [
+        "ca.wakavaping.com best-disposables-2026",
+        "thevapestore.ca best-disposable-vapes-canada-2026",
+        "reddit r/disposablevapecanada 1orerqd"
+      ]
+    },
+    {
+      "id": "geek-bar-pulse-x",
+      "name": "Geek Bar Pulse X 25K",
+      "brand": "Geek Bar",
+      "origin": "China (Canadian 20 mg version)",
+      "tier": "mid",
+      "format": "disposable",
+      "ml": 18,
+      "puffs": 25000,
+      "puffsNote": "25K Regular / 15K Pulse",
+      "batteryMah": 820,
+      "rechargeable": true,
+      "coil": "Dual mesh",
+      "modes": "Regular / Pulse",
+      "airflow": "Adjustable",
+      "screen": "3D curved CNC screen",
+      "nic": 20,
+      "flavours": 20,
+      "flavourExamples": "Blue Razz Ice, Miami Mint, Strawberry B-Pop, Watermelon Ice, Sour Apple Ice, Grape Blow Pop, Tobacco",
+      "priceLow": 29.99,
+      "priceHigh": 36.99,
+      "released": "2024-08",
+      "score": 8.4,
+      "award": "Best mid-size overall",
+      "pros": [
+        "Widely considered the best-tasting disposable line",
+        "Fast charge: 80% in ~20 min",
+        "Slim enough to pocket",
+        "Proven since 2024; Pulse 2 successor now out"
+      ],
+      "cons": [
+        "18 mL — heavy users empty it in a week",
+        "$/mL ~50% higher than 30 mL devices"
+      ],
+      "verdict": "If 30 mL bricks are too big for your pocket, this is the one to carry. Pay a bit more per mL for the best flavour tech in the mid class.",
+      "sources": [
+        "abcvape.ca geek-bar-pulse-x-25k-review Aug 2026",
+        "vipvape.ca geek-bar-pulse-x-25k",
+        "reddit r/Vaping 1i9mva3",
+        "vapingtheway.ca geek-bar-pulse-2-review Jul 2026"
+      ]
+    },
+    {
+      "id": "waka-duo-28k",
+      "name": "WAKA DUO 28000",
+      "brand": "WAKA (RELX)",
+      "origin": "RELX International (Canadian 20 mg version)",
+      "tier": "mid",
+      "format": "disposable",
+      "ml": 18,
+      "puffs": 28000,
+      "puffsNote": "capacity estimated",
+      "batteryMah": null,
+      "rechargeable": true,
+      "coil": "Mesh",
+      "modes": "Boost",
+      "airflow": "Dual-airflow dial (MTL ↔ RDL)",
+      "screen": "Indicator",
+      "nic": 20,
+      "flavours": 5,
+      "flavourExamples": "Cuke Lemon Lime Ice, Grapefruit Lime Ice, Canada D. Ice, Blue Razz Ice, Watermelon Ice",
+      "priceLow": 35.99,
+      "priceHigh": 35.99,
+      "released": "2025-10",
+      "score": 7.4,
+      "award": "Least-sweet flavours",
+      "pros": [
+        "Real MTL-to-RDL airflow dial",
+        "Less sugary, more refreshing profiles",
+        "RELX build quality",
+        "4.14/5 across 44 verified reviews"
+      ],
+      "cons": [
+        "Only 5 flavours",
+        "Ontario price is steep for ~18 mL",
+        "Capacity not disclosed by maker"
+      ],
+      "verdict": "For adults who find most disposables sickly sweet. Cuke Lemon Lime Ice is unlike anything else on Toronto shelves.",
+      "sources": [
+        "ca.wakavaping.com best-disposables-2026"
+      ]
+    },
+    {
+      "id": "infinity-lean-20k",
+      "name": "Infinity Lean 20K",
+      "brand": "Infinity",
+      "origin": "Canada (WAKA/RELX distribution)",
+      "tier": "mid",
+      "format": "disposable",
+      "ml": 18,
+      "puffs": 20000,
+      "puffsNote": "capacity estimated",
+      "batteryMah": null,
+      "rechargeable": true,
+      "coil": "Mesh",
+      "modes": "None",
+      "airflow": "Fixed (tight)",
+      "screen": "None",
+      "nic": 20,
+      "flavours": 10,
+      "flavourExamples": "Blue Razz Lemon Ice (top), Watermelon Ice, Mango Peach, Extreme Mint",
+      "priceLow": 24.99,
+      "priceHigh": 24.99,
+      "released": "2025-08",
+      "score": 7.5,
+      "award": "Best budget",
+      "pros": [
+        "$24.99 Ontario — cheapest legit mid-size device",
+        "Top unit-seller at its retailer (1,350 in 6 months)",
+        "Tight, cigarette-like draw"
+      ],
+      "cons": [
+        "No screen, no modes",
+        "Capacity undisclosed (est. 18 mL)",
+        "Newer brand — limited independent reviews"
+      ],
+      "verdict": "The lowest-stakes way to try a disposable in Toronto. Not fancy; just cheap and decent.",
+      "sources": [
+        "ca.wakavaping.com best-disposables-2026"
+      ]
+    },
+    {
+      "id": "elf-bar-gh-20k",
+      "name": "Elf Bar GH 20K",
+      "brand": "ELFBAR",
+      "origin": "China (Canadian 20 mg version)",
+      "tier": "mid",
+      "format": "disposable",
+      "ml": 18,
+      "puffs": 20000,
+      "puffsNote": "",
+      "batteryMah": null,
+      "rechargeable": true,
+      "coil": "Dual mesh",
+      "modes": "None",
+      "airflow": "Fixed",
+      "screen": "None",
+      "nic": 20,
+      "flavours": 20,
+      "flavourExamples": "Tropical fruits, creamy desserts, icy menthols",
+      "priceLow": 25.0,
+      "priceHigh": 35.0,
+      "released": "2024-10",
+      "score": 7.3,
+      "award": "",
+      "pros": [
+        "Compact",
+        "Broad flavour range incl. dessert profiles",
+        "Trusted global brand"
+      ],
+      "cons": [
+        "Feature-light for 2026",
+        "Pricing varies a lot"
+      ],
+      "verdict": "A solid, no-frills mid-sizer. Only buy at the low end of its price range.",
+      "sources": [
+        "thevapestore.ca best-disposable-vapes-canada-2026",
+        "vapebest.ca best-disposable-vape-brands"
+      ]
+    },
+    {
+      "id": "oxbar-g42k",
+      "name": "Oxbar G42K",
+      "brand": "Oxbar (Rocky Vapor)",
+      "origin": "Canada / Oxbar hardware",
+      "tier": "mid",
+      "format": "disposable",
+      "ml": 20,
+      "puffs": 42000,
+      "puffsNote": "",
+      "batteryMah": 900,
+      "rechargeable": true,
+      "coil": "Triple mesh",
+      "modes": "Adjustable NICOTINE level + ice level (buttons)",
+      "airflow": "Adjustable",
+      "screen": "Screen",
+      "nic": 20,
+      "flavours": 15,
+      "flavourExamples": "Fruit ice range",
+      "priceLow": 33.0,
+      "priceHigh": 37.0,
+      "released": "2025-05",
+      "score": 7.7,
+      "award": "Best for stepping down nicotine",
+      "pros": [
+        "World-first adjustable nicotine output — lets you taper",
+        "900 mAh",
+        "Triple mesh"
+      ],
+      "cons": [
+        "20 mL at near-30 mL pricing",
+        "Superseded by G100K for value"
+      ],
+      "verdict": "Buy this for the nicotine dial, not the value. It's the only disposable that lets a daily user actually cut intake without switching devices.",
+      "sources": [
+        "vapingtheway.ca oxbar-g100k-review (G42K comparison)",
+        "vapebest.ca best-disposable-vape-brands"
+      ]
+    },
+    {
+      "id": "stlth-loop-max",
+      "name": "STLTH Loop Max (device + 30 mL pods)",
+      "brand": "STLTH",
+      "origin": "Toronto, ON",
+      "tier": "hybrid",
+      "format": "pod system",
+      "ml": 30,
+      "puffs": 70000,
+      "puffsNote": "per pod",
+      "batteryMah": 1000,
+      "rechargeable": true,
+      "coil": "Mesh — fresh coil in every pod",
+      "modes": "Normal / Boost",
+      "airflow": "Adjustable",
+      "screen": "E-liquid + coil indicator",
+      "nic": 20,
+      "flavours": 16,
+      "flavourExamples": "Razz Apple Ice, Blue Razz, Mango, Peach Ice, Watermelon Ice, Mint",
+      "priceLow": 26.25,
+      "priceHigh": 35.49,
+      "priceNote": "per 30 mL pod; battery ~$14 one-time",
+      "released": "2025-03",
+      "score": 9.0,
+      "award": "Best long-run value",
+      "pros": [
+        "~$0.90–1.20/mL — cheapest legit nicotine per mL in Toronto",
+        "Battery is ~$14, once",
+        "New coil with every pod — no end-of-life metallic taste",
+        "Far less e-waste than binning a 1000 mAh cell each time"
+      ],
+      "cons": [
+        "Two-part system: carry the right pod",
+        "Pods only fit Loop Max (not Loop 2/3)",
+        "Slightly less grab-and-go"
+      ],
+      "verdict": "If you're a daily user spending $45 every week or two, do the math: this pays for itself on the first pod. Same STLTH liquid, same 30 mL, half the waste.",
+      "sources": [
+        "stlthvape.com/collections/loop-max-pods",
+        "vapingtheway.ca stlth-loop-max-closed-pod-device",
+        "180smoke.ca stlth-loop-max-pods-2-pack",
+        "uvapeshop.com stlth-loop-max review May 2025"
+      ]
+    },
+    {
+      "id": "level-x-g2-ultra",
+      "name": "Level X G2 + Ultra 50K pods",
+      "brand": "Flavour Beast (Level X)",
+      "origin": "Canada",
+      "tier": "hybrid",
+      "format": "pod system",
+      "ml": 20,
+      "puffs": 50000,
+      "puffsNote": "per pod",
+      "batteryMah": 1000,
+      "rechargeable": true,
+      "coil": "Dual mesh — fresh per pod",
+      "modes": "Eco / Standard / Boost (on G2 battery)",
+      "airflow": "Adjustable",
+      "screen": "LED on battery",
+      "nic": 20,
+      "flavours": 25,
+      "flavourExamples": "Flavour Beast lineup + Drip'n (Canada D Ice) + Unleashed series (Epic Grape Iced)",
+      "priceLow": 24.99,
+      "priceHigh": 33.99,
+      "priceNote": "per 20 mL pod; G2 battery ~$15–25 one-time",
+      "released": "2025-09",
+      "score": 8.6,
+      "award": "Best hybrid for Flavour Beast fans",
+      "pros": [
+        "Flavour Beast flavours at ~$1.25–1.70/mL instead of $2–2.50",
+        "Battery has screen + 3 modes",
+        "Beast Mode Max 2 pods also fit",
+        "Biggest flavour catalogue of any system"
+      ],
+      "cons": [
+        "20 mL pods — swap more often than Loop Max",
+        "G2 Pro battery only fits G2 pods (check compatibility)"
+      ],
+      "verdict": "The obvious move for anyone buying Beast Mode Max 2 disposables on repeat.",
+      "sources": [
+        "flavourbeast.com/collections/level-x-devices",
+        "180smoke.ca level-x-boost-g2-pods",
+        "vape360.ca flavour-beast-level-x-ultra-pods",
+        "vapebest.ca complete-guide-to-level-x"
+      ]
+    },
+    {
+      "id": "allo-ultra-2500",
+      "name": "Allo Ultra 2500",
+      "brand": "Allo",
+      "origin": "Vancouver, BC",
+      "tier": "compact",
+      "format": "disposable",
+      "ml": 10,
+      "puffs": 2500,
+      "puffsNote": "",
+      "batteryMah": 1500,
+      "rechargeable": false,
+      "coil": "Mesh",
+      "modes": "None (draw-activated)",
+      "airflow": "Fixed",
+      "screen": "None",
+      "nic": 20,
+      "flavours": 30,
+      "flavourExamples": "30+ incl. Classic Tobacco, Mint, Blue Raspberry, Mango, Lychee Ice",
+      "priceLow": 27.45,
+      "priceHigh": 30.0,
+      "released": "2022-05",
+      "score": 7.0,
+      "award": "Simplest / best for light users",
+      "pros": [
+        "Zero learning curve — no buttons, no charging",
+        "1500 mAh never dies before the liquid",
+        "Pocketable",
+        "Biggest flavour menu in Canada",
+        "Tobacco/mint versions at some convenience stores"
+      ],
+      "cons": [
+        "~$2.90/mL — more than double the ultra class",
+        "Non-rechargeable = whole 1500 mAh cell in the bin",
+        "2022 design"
+      ],
+      "verdict": "Right for occasional or travel use. Wrong for a daily user's wallet.",
+      "sources": [
+        "allo.ca/collections/allo-ultra-2500-on",
+        "hazesmokeshop.ca allo-ultra-2500-review",
+        "vapestoredelivery.ca allo-ultra-1600-vs-ultra-2500 May 2026"
+      ]
+    },
+    {
+      "id": "vuse-go-8000",
+      "name": "Vuse Go 8000 (2.0)",
+      "brand": "Vuse (BAT / Imperial Tobacco Canada)",
+      "origin": "Multinational",
+      "tier": "compact",
+      "format": "disposable",
+      "ml": 15,
+      "puffs": 8000,
+      "puffsNote": "",
+      "batteryMah": 560,
+      "rechargeable": true,
+      "coil": "Ceramic heater",
+      "modes": "FlavourBoost",
+      "airflow": "Straight",
+      "screen": "None (liquid window)",
+      "nic": 20,
+      "flavours": 10,
+      "flavourExamples": "Mint Ice, Menthol, Tobacco (c-store); Strawberry Ice, Mango, Berry Blend (specialty only)",
+      "priceLow": 24.99,
+      "priceHigh": 29.99,
+      "released": "2025-05",
+      "score": 6.5,
+      "award": "Best you can buy at a convenience store",
+      "pros": [
+        "At gas stations and c-stores across Toronto (mint/menthol/tobacco only)",
+        "Ceramic coil; very consistent",
+        "Big Tobacco QA and recall accountability"
+      ],
+      "cons": [
+        "Flavour is flat next to specialty brands",
+        "$1.70–2.00/mL",
+        "Only 3 flavours outside vape shops"
+      ],
+      "verdict": "The 11 pm emergency option when every vape shop is closed. Otherwise, walk the extra block.",
+      "sources": [
+        "vuse.com/ca/en/blog/new-vuse-go-8000",
+        "canadavapes.com vuse-go-edition-8000",
+        "lushvape.ca vuse-go-8000-canada-review May 2026"
+      ]
+    },
+    {
+      "id": "kraze-giga-150k",
+      "name": "Kraze Giga 150K",
+      "brand": "Kraze (RAZ / Geek Vape family)",
+      "origin": "Canada / China",
+      "tier": "ultra",
+      "format": "disposable",
+      "ml": 40,
+      "puffs": 150000,
+      "puffsNote": "Dual-chamber 40 mL",
+      "batteryMah": null,
+      "rechargeable": true,
+      "coil": "Dual mesh",
+      "modes": "Multiple",
+      "airflow": "Adjustable",
+      "screen": "HD screen",
+      "nic": 20,
+      "flavours": 12,
+      "flavourExamples": "RAZ-style fruit ice range",
+      "priceLow": 49.99,
+      "priceHigh": 54.99,
+      "released": "2026-06",
+      "score": 7.2,
+      "award": "Biggest",
+      "pros": [
+        "40 mL — the largest tank sold in Canada",
+        "$1.25–1.37/mL",
+        "Kraze = Canadian arm of RAZ, a known quantity"
+      ],
+      "cons": [
+        "Brand-new; few people have finished one",
+        "One coil across 40 mL — end-of-life taste is a real concern",
+        "Huge in the pocket",
+        "800 mg of nicotine in your hand"
+      ],
+      "verdict": "Wait for reports. On paper it's the value king; in practice a single coil running 40 mL is an experiment you're paying $50 to join.",
+      "sources": [
+        "vapecloud.ca/collections/100-000-puff-disposable-vapes",
+        "vapebest.ca elf-bar-bc-pro-80k-review (150K comparison)"
+      ]
+    },
+    {
+      "id": "orbito-lumo-ai-120k",
+      "name": "Orbito Lumo AI 120K",
+      "brand": "Orbito",
+      "origin": "China (Canadian import)",
+      "tier": "ultra",
+      "format": "disposable",
+      "ml": 30,
+      "puffs": 120000,
+      "puffsNote": "",
+      "batteryMah": null,
+      "rechargeable": true,
+      "coil": "Mesh w/ 'AI' chipset",
+      "modes": "Adaptive",
+      "airflow": "Adjustable",
+      "screen": "Display",
+      "nic": 20,
+      "nicOptions": "10 mg or 20 mg",
+      "flavours": 12,
+      "flavourExamples": "Fruit ice range",
+      "priceLow": 44.99,
+      "priceHigh": 49.99,
+      "released": "2026-05",
+      "score": 7.0,
+      "award": "Only 10 mg/mL option",
+      "pros": [
+        "Available in 10 mg/mL — half strength — rare in Canada",
+        "Chipset regulates output for consistency"
+      ],
+      "cons": [
+        "Unknown brand",
+        "'120K' from 30 mL is the most inflated claim on the shelf",
+        "Premium price for no track record"
+      ],
+      "verdict": "Interesting only for the 10 mg version if you're tapering. Otherwise unproven.",
+      "sources": [
+        "vapecloud.ca/collections/100-000-puff-disposable-vapes"
+      ]
+    },
+    {
+      "id": "mr-fog-aura-60k",
+      "name": "Mr. Fog Aura 60K",
+      "brand": "Mr. Fog",
+      "origin": "Markham, ON",
+      "tier": "ultra",
+      "format": "disposable",
+      "ml": 25,
+      "puffs": 60000,
+      "puffsNote": "60K on ECO; capacity estimated",
+      "batteryMah": null,
+      "rechargeable": true,
+      "coil": "Mesh",
+      "modes": "ECO / BOOST / TURBO",
+      "airflow": "Adjustable",
+      "screen": "Smart screen + child lock",
+      "nic": 20,
+      "flavours": 15,
+      "flavourExamples": "Fruit ice range",
+      "priceLow": 34.99,
+      "priceHigh": 44.99,
+      "released": "2026-01",
+      "score": 7.4,
+      "award": "GTA-made alternative",
+      "pros": [
+        "Markham-based company",
+        "Three modes + child lock",
+        "Grippy 'crackle texture' body"
+      ],
+      "cons": [
+        "Capacity not clearly published (est. 25 mL)",
+        "Fewer independent reviews than STLTH/FB"
+      ],
+      "verdict": "A credible local option if your shop stocks it; verify the mL on the box before paying 80K-class money.",
+      "sources": [
+        "vapebest.ca best-disposable-vape-brands (Mr. Fog section, Jun 2026)"
+      ]
     }
   ]
 }
