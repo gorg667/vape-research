@@ -44,3 +44,20 @@ Format: name | mL | rated puffs | battery | coil | modes | airflow | screen | fl
 - "Puff count" tested at 1–2 s draws on lowest mode; realistic yields 40–60% of rated for heavy users. 30 mL ≈ 1–4 weeks depending on habits (heavy: 3–7 days!).
 - Duty on 30 mL in Ontario: first 10 mL = 5 × $2.24 = $11.20; next 20 mL = 2 × $2.24 = $4.48 → **$15.68 duty** on every 30 mL device (~35% of shelf price). On 20 mL: $13.44. On 18 mL: $13.44. On 2 mL: $2.24.
 - $/mL (ON shelf prices): Vice Box 2 $1.27; Oxbar G100K $1.40; Elf BC Pro 80K ~$1.30–1.75 (25 mL); STLTH×GB 80K $1.50–1.63; Alpha 80K $1.63–1.77; Beast Mode Max 2 $2.00–2.50 (20 mL); Pulse X ~$1.80–2.05 (18 mL); Infinity Lean ~$1.25–1.40 (if 18 mL); Allo Ultra 2500 ~$4+; Vuse Go ~$5–8/mL.
+
+## CORRECTIONS / verified additions (after further checking)
+- **STLTH Titan Max 50K** = **30 mL**, **1000 mAh**, **QUAD mesh coil**, mega screen (battery % + liquid %), precise airflow control, USB-C.
+  Launched late 2024. Price now $33.99–49.99 (widely $35–45 ON). THIS IS THE SAME 30 mL AS THE "80K/100K" DEVICES — rated at a higher
+  wattage so lower puff number. Best evidence puff counts are marketing. Great value + STLTH QA track record. Sources: stlthvape.com blog; vaping360; uvapeshop Dec 2024; newcityvapes Sept 2025; supavapes Aug 2026.
+- **STLTH Titan Pro 15K**: compact mid, rechargeable. **STLTH 8K Pro**: compact, ~14 mL?
+- **STLTH Loop Max system**: device $14 (!), pods 30 mL / 70K at $26.25–29 each (vapingtheway) or $35.49 (180smoke 2-pack $70.98). 1000 mAh battery, Boost mode,
+  adjustable airflow, e-liquid & coil indication. Pods also in 20 mL and 15 mL. Fresh coil every pod. uvapeshop 4.4/5.
+  → Cheapest $/mL of any STLTH: ~$0.88–1.18/mL for pods vs $1.13–1.63 for Titan Max/80K.
+- **STLTH Loop 25K pods** (Loop 2 / Loop 3 devices) — ~18–20 mL? Loop 2 Switch = two flavours in one pod.
+- **Allo Ultra 2500** = **10 mL**, **1500 mAh NON-rechargeable**, draw-activated, 20 mg. (Allo Ultra 800 = 3.8 mL / 550 mAh; Allo Original = 1.2 mL / 280 mAh.)
+  Price $27–30 → ~$2.75–3.00/mL. Reddit/reviews: battery often dies before liquid on Ultra 1600. 
+- **Allo Ultra 25K** (Jan 2026): 17 mL (2 mL pod + 15 mL reservoir), 650 mAh rechargeable.
+- **Level X G2 system** (Flavour Beast): G2 / G2 Pro battery 1000 mAh, LED screen, Eco/Standard/Boost, USB-C. Pods: Boost G2 20 mL/25K; **G2 Ultra 20 mL / 50K** (dual mesh, adjustable airflow)
+  $19.99 (primevape, fed) – $29.99–33.99 ON. Also Drip'n-flavoured Ultra pods (Canada D Ice). → ~$1.00–1.70/mL, battery reused.
+- **Vuse Go 8000** (2.0, May 2025): **15 mL**, 560 mAh USB-C, ceramic heater, FlavourBoost mode, 10 flavours; ~$25–30 → $1.67–2.00/mL. Sold at c-stores in mint/menthol/tobacco. BAT/Imperial Tobacco.
+- **Kraze Giga 150K**: 40 mL dual-chamber, ~$49.99 → $1.25/mL. Newest/biggest; unproven longevity of battery/coil over 40 mL.
