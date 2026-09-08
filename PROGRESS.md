@@ -40,7 +40,7 @@ static website in this repo (root `index.html`, plain HTML/CSS/JS, no build step
   - [x] css/style.css (dark theme, responsive), js/app.js (render table from JSON, sort, filter, calculator)
   - [x] .nojekyll, README.md
 - [x] Tested headless (20 rows, 9 picks, 20 reviews, calc OK, 0 JS errors; desktop+mobile screenshots fine)
-- [ ] Enable GitHub Pages (main branch, / root) via gh CLI or API; verify live URL
+- [ ] Enable GitHub Pages — API returned 403 (token lacks pages scope). USER must do: repo Settings → Pages → Source: Deploy from branch → main / (root) → Save. Then URL https://gorg667.github.io/vape-research/
 - [ ] Optional future: add device images, per-shop price snapshots, more Reddit sentiment, French toggle
 
 ## Research log
